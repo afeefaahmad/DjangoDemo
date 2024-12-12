@@ -1,1 +1,12 @@
+Commands to make a Django project :
+step1: Create a folder ex.djangodemo
+step2: Open cmd 
+step3: cd djangodemo
+step4: python --version (to check if python accessible)
+step5: pip list or pip freeze (to list python packages)
+step6: pip install django
+step7: django-admin startproject projectname
+step8: cd projectname
+step9: code .
+
 
